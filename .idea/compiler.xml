@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hadoop-hdfs" />
+        <module name="msbhadoop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hadoop-hdfs" target="1.7" />
+      <module name="msbhadoop" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

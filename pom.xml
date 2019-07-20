@@ -5,12 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.msb.hadoop</groupId>
-  <artifactId>hadoop-hdfs</artifactId>
+  <artifactId>msbhadoop</artifactId>
   <version>1.0-0.1</version>
 
-  <name>hadoop-hdfs</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>msbhadoop</name>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
